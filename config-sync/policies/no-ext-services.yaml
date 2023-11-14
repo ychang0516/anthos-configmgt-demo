@@ -19,4 +19,3 @@ metadata:
 spec:
   parameters:
     internalCIDRs: [] 
-# [END anthosconfig_quickstart_policies_no_ext_services] 
